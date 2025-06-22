@@ -1,7 +1,6 @@
 # BabySharkSolder
 
-
-This project is a keychain baby shark! It's made for my baby sister since because that's her favourite cartoon
+This project is a keychain baby shark! I've designed it specifically for my baby sister because she absolutely adores the Baby Shark cartoon. Can't wait to attach it to her backpack!
 
 BOM 
 - 4x LED's
