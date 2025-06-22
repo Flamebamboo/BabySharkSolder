@@ -10,4 +10,11 @@ BOM
 - 1x Motor DC
 - 1x SW_PUSH
 
-- FlameBamboo
+
+
+![3D](3DBack.png)
+![3D](3DFront.png)
+![PCB](PCB.png)
+![Schematic](Schematic.png)
+
+By FlameBamboo
